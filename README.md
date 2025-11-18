@@ -11,8 +11,6 @@ O projeto busca reduzir o desperdício, fortalecer a solidariedade local e facil
 - [Layout do Projeto](#-layout-do-projeto)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Executar](#-como-executar)
-- [Status do Projeto](#-status-do-projeto)
-- [Autor](#-autor)
 
 ---
 
