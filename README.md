@@ -67,7 +67,7 @@ O projeto inclui:
 3. Configure o ambiente local (Apache + PHP + MySQL).
    Pode usar: XAMPP, WAMP, Laragon, etc.
 
-4. Importe o banco de dados (arquivo .sql)
+4. Importe o banco de dados (arquivo dbBase.zip)
 
 
 5. Inicie o servidor local e abra:
